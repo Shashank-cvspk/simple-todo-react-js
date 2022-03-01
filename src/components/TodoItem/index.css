@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex: 1;
+  margin: auto;
+  padding: 5px;
+}
+.button {
+  background-color: white;
+  color: #ff0b37;
+  border: 1px, #ff0b37;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+}

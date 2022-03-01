@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #ffc2a0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  width: 50%;
+}
+.heading {
+  text-align: center;
+  color: #ff8542;
+}
+.List {
+  list-style: none;
+}
